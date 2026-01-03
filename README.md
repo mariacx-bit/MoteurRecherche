@@ -18,6 +18,6 @@ L’application permet d’explorer un corpus de discours politiques américains
 
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/<ton-utilisateur>/MoteurRecherche.git
+   git clone https://github.com/mariacx-bit/MoteurRecherche.git
    cd MoteurRecherche
 # MoteurRecherche
