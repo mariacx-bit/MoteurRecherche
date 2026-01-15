@@ -5,14 +5,14 @@ Ce dépôt contient le projet de moteur de recherche développé dans le cadre d
 L’application permet d’explorer un corpus de discours politiques américains (2015–2016) :
 - recherche par mots-clés avec score de pertinence ;
 - filtrage par auteur et par année ;
-- petite analyse temporelle d’un terme (avant/après une année de référence). [file:516]
+- Analyse temporelle d’un terme (avant/après une année de référence). 
 
 ## Structure du projet
 
-- `TD_discours_US.ipynb` : notebook principal servant d’interface utilisateur (ipywidgets). [file:515]  
-- `discours_US.csv` : corpus de discours politiques US. [file:204]  
-- `rapport_projet.pdf` : rapport du projet (resume functionel du projet). [file:516]  
-- autres fichiers `.py` : classes et fonctions métier (Document, Corpus, SearchEngine, etc.). [file:515]
+- `TD_discours_US.ipynb` : notebook principal servant d’interface utilisateur (ipywidgets).
+- `discours_US.csv` : corpus de discours politiques US.   
+- `rapport_projet.pdf` : rapport du projet (resume functionel du projet).   
+- autres fichiers `.py` : classes et fonctions métier (Document, Corpus, SearchEngine, etc.). 
 
 ## Installation
 
