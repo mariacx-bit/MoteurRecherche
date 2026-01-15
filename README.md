@@ -22,25 +22,21 @@ L’application permet d’explorer un corpus :
 - Git (pour cloner le dépôt)
 
 # Cloner le dépôt
-
 ```bash
 git clone https://github.com/mariacx-bit/MoteurRecherche.git
-cd MoteurRecherche
+cd MoteurRecherche ``` 
 
 # Installation des dépendances
 Si le fichier requirements.txt est présent :
-
-bash
 pip install -r requirements.txt
+
 Sinon, installer manuellement les principales dépendances utilisées dans le projet :
 
-bash
 pip install pandas numpy scipy ipywidgets tqdm praw xmltodict
-Sur Jupyter, il peut être nécessaire d’activer ipywidgets :
 
-bash
+Sur Jupyter, il peut être nécessaire d’activer ipywidgets :
 jupyter nbextension enable --py widgetsnbextension
+
 ### Lancer l’interface
-bash
 jupyter notebook
 # MoteurRecherche
