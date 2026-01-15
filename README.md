@@ -2,7 +2,7 @@
 
 Ce dépôt contient le projet de moteur de recherche développé dans le cadre du cours de Programmation de spécialité (Master 1 Informatique, 2025–2026).
 
-L’application permet d’explorer un corpus de discours politiques américains (2015–2016) :
+L’application permet d’explorer un corpus :
 - recherche par mots-clés avec score de pertinence ;
 - filtrage par auteur et par année ;
 - Analyse temporelle d’un terme (avant/après une année de référence). 
